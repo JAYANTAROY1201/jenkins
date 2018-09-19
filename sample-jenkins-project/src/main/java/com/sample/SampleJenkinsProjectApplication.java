@@ -15,6 +15,6 @@ public class SampleJenkinsProjectApplication {
 	
 	@GetMapping("/")
 	public String displayMessage() {
-		return "Hello Jayanta";
+		return "Hello Jayanta, welcome to capgemini";
 	}
 }
